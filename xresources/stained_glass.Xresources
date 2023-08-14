@@ -1,0 +1,38 @@
+! Stained Glass color theme for Xresources
+
+! special
+*.foreground:   #c0b7b1
+*.background:   #111111
+*.cursorColor:  #c0b7b1
+
+! black
+*.color0:       #303030
+*.color8:       #919191
+
+! red
+*.color1:       #e9655f
+*.color9:       #fc9bbb
+
+! green
+*.color2:       #26a55d
+*.color10:      #acd372
+
+! yellow
+*.color3:       #a48f25
+*.color11:      #f9b887
+
+! blue
+*.color4:       #5694e9
+*.color12:      #7ed2fe
+
+! magenta
+*.color5:       #d469c7
+*.color13:      #d2bdfe
+
+! cyan
+*.color6:       #20a0ae
+*.color14:      #24dfc4
+
+! white
+*.color7:       #c6c6c6
+*.color15:      #ffffff

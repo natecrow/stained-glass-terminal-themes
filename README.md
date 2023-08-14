@@ -1,1 +1,1 @@
-# stained-glass-terminal-themes
+# Stained Glass Terminal Themes

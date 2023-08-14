@@ -1,0 +1,23 @@
+<key name="Palette1" modified="2023-08-13 17:39:24" build="161206">
+    <value name="Name" type="string" data="Stained Glass"/>
+    <value name="TextColorIdx" type="hex" data="10"/>
+    <value name="BackColorIdx" type="hex" data="10"/>
+    <value name="PopTextColorIdx" type="hex" data="10"/>
+    <value name="PopBackColorIdx" type="hex" data="10"/>
+    <value name="ColorTable00" type="dword" data="00111111"/>  <!-- Black (background) -->
+    <value name="ColorTable01" type="dword" data="00e99456"/>  <!-- DarkBlue -->
+    <value name="ColorTable02" type="dword" data="005da526"/>  <!-- DarkGreen -->
+    <value name="ColorTable03" type="dword" data="00aea020"/>  <!-- DarkCyan -->
+    <value name="ColorTable04" type="dword" data="005f65e9"/>  <!-- DarkRed -->
+    <value name="ColorTable05" type="dword" data="00c769d4"/>  <!-- DarkMagenta -->
+    <value name="ColorTable06" type="dword" data="00258fa4"/>  <!-- DarkYellow -->
+    <value name="ColorTable07" type="dword" data="00b1b7c0"/>  <!-- Gray (foreground) -->
+    <value name="ColorTable08" type="dword" data="00919191"/>  <!-- DarkGray -->
+    <value name="ColorTable09" type="dword" data="00fed27e"/>  <!-- Blue -->
+    <value name="ColorTable10" type="dword" data="0072d3ac"/>  <!-- Green -->
+    <value name="ColorTable11" type="dword" data="00c4df24"/>  <!-- Cyan -->
+    <value name="ColorTable12" type="dword" data="00bb9bfc"/>  <!-- Red -->
+    <value name="ColorTable13" type="dword" data="00febdd2"/>  <!-- Magenta -->
+    <value name="ColorTable14" type="dword" data="0087b8f9"/>  <!-- Yellow -->
+    <value name="ColorTable15" type="dword" data="00ffffff"/>  <!-- White -->
+</key>
